@@ -1,0 +1,11 @@
+000001*Lunes 22 de Marzo de 2021 12:56:04 AM*apertura de cuenta* * * 
+000002*Lunes 22 de Marzo de 2021 12:56:04 AM*Deposito david*500000*USD*
+000003*Sabado 03 de Abril de 2021 04:50:49 PM*solicitud_de_transferencia_de ian5529*1*Bitcoin*58403.064*
+000004*Sabado 03 de Abril de 2021 04:51:13 PM*Compra_de_criptomoneda*3*Bitcoin*175209.19199999998
+000005*Sabado 03 de Abril de 2021 05:29:29 PM*solicitud_de_transferencia_de ian5529*3*Ethereum*2050.415*
+000006*Sabado 03 de Abril de 2021 05:30:31 PM*transferencia a ian5529*1*Bitcoin*58022.202
+000007*Sabado 03 de Abril de 2021 06:08:49 PM*solicitud de transferencia rechazada a ian5529*3*Ethereum* 
+000008*Sabado 03 de Abril de 2021 06:11:33 PM*Compra_de_criptomoneda*5*Ethereum*0287.24*
+000009*Sabado 03 de Abril de 2021 06:11:33 PM*transferencia a ian5529*2*Ethereum*2057.448*
+000010*Sabado 03 de Abril de 2021 06:19:34 PM*solicitud de transferencia a ian5529*5*Cardano*1.186*
+000011*Sabado 03 de Abril de 2021 06:19:51 PM*solicitud de transferencia rechazada por ian de*5*Cardano*

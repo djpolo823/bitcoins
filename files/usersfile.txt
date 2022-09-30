@@ -1,0 +1,2 @@
+5529*ian*1234*{'USD': 500000.0, 'Bitcoin': 1.0, 'Ethereum': 2.0}
+3646*david*1234*{'USD': 314502.76, 'Bitcoin': 2.0, 'Ethereum': 3.0}

@@ -1,0 +1,8 @@
+000003*Sabado 03 de Abril de 2021 04:50:49 PM*solicitud de transferencia a david3646*1*Bitcoin*58403.064*
+000004*Sabado 03 de Abril de 2021 05:29:29 PM*solicitud de transferencia a david3646*3*Ethereum*2050.415*
+000005*Sabado 03 de Abril de 2021 05:34:41 PM*transferencia de david3646*1*Bitcoin*57779.729*
+000006*Sabado 03 de Abril de 2021 05:34:41 PM*deposito aprobado por david3646*1*Bitcoin*
+000007*Sabado 03 de Abril de 2021 06:08:49 PM*solicitud rechazada por david de*3*Ethereum* 
+000008*Sabado 03 de Abril de 2021 06:11:33 PM*transferencia de david3646*2*Ethereum*2057.448*
+000009*Sabado 03 de Abril de 2021 06:19:34 PM*solicitud_de_transferencia_de david3646*5*Cardano*1.186*
+000010*Sabado 03 de Abril de 2021 06:19:51 PM*solicitud rechazada a david3646*5*Cardano*
