@@ -8,9 +8,9 @@ from modulos.criptomonedas import consultar_cryptos
 from modulos.classes import Criptomoneda
 
 def consulta_registro_saldo(myself, opcion):
-    """
-    Función que consulta y presenta en un informe el saldo que posee en usuario en USD y en criptomonedas, además de consultar el valor actual de cada criptomoneda del saldo en la aplicación coinmarketcap.com totalizando en USD el slado del usuario.
-    """
+    """Función que consulta y presenta en un informe el saldo que posee en usuario en USD y en criptomonedas,"""
+    """además de consultar el valor actual de cada criptomoneda del saldo en la aplicación coinmarketcap.com """
+    """totalizando en USD el slado del usuario."""
         
     saldo=0                                             #Crea variable para manejar saldos y la inicializa en 0
     myself=usuario.code                                 #Trae el código del usuario para hacer las consultas 
