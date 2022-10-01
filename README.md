@@ -1,6 +1,17 @@
 # bitcoins
 It´s an Python app that allows users to buy, send, ask for cryptocurrencies, all the information about cryptocurrencies is retrived from coinmarket.com API
 
+INSTRUCTIONS:
+
+Just clone this repo and type py proyecto_final.py
+
+For testing purposes, the already existing users will be shown here with their respective login data:
+
+Code/name/password
+
+5529 ian 1234
+3646 david 1234
+
 """*************************************************** ************************************************** ***********
 Desktop type digital wallet with which you can:
     1. send and receive an amount in USD of the cryptocurrencies registered in coinmarketcap
