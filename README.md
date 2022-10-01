@@ -1,7 +1,40 @@
 # bitcoins
-It´s an Python app that allows users to buy, send, ask for virtual coins, all the information about virtual coins is retrived from coinmarket.com API
+It´s an Python app that allows users to buy, send, ask for cryptocurrencies, all the information about cryptocurrencies is retrived from coinmarket.com API
+
+"""*************************************************** ************************************************** ***********
+Desktop type digital wallet with which you can:
+    1. send and receive an amount in USD of the cryptocurrencies registered in coinmarketcap
+    2. Check the balance of each cryptocurrency that the user owns
+    3. Check the balance in USD using the price of each cryptocurrency registered in coinmarketcap
+    4. Issue transaction history with date, currency, amount and amount in USD
+    5. Stores the transactions and amounts of each cryptocurrency that the user owns
+
+MENU:
+
+    1 Receive quantity:
+        Request currency, amount to receive, as well as the code.
+        Validate currency, amount and code, this must be different from your own.
+        Add number of coins to balance.
+    2 Transfer amount:
+        Request currency, amount and code of the recipient to send.
+        Validate.
+        Subtract amount of coins to the balance.
+    3 Show balance of a currency:
+        Request the currency to display
+        Validate currency existence.
+        Show currency name, amount and amount in USD for that moment.
+    4 Show balance sheet:
+        Show name of each currency, amount and amount in USD for that moment.
+        Show total amount in USD of all currencies.
+    5 Show transaction history:
+        Show all transactions indicating date, currency, type of operation, user code, amount and amount for the moment.
+    6 Exit program
+
+Query API https://pro-api.coinmarketcap.com
 
 """************************************************************************************************************
+
+
 Billetera digital tipo desktop con la que se puede: 
     1. envía y recibe un monto en USD de las criptomonedas registradas en coinmarketcap
     2. Consulta el balance de cada criptomoneda de la que el usuario posee
